@@ -2,6 +2,8 @@
 
 ## Play drums from the comfort of your home.
 
+<a href="https://prathikshetty9b.github.io/Drum-Kit/"> Click here to play the drums</a>
+
 ### Overview
 
 A simple program that let's you play drums in your computer browser.  
